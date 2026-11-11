@@ -1,0 +1,16 @@
+.git
+.venv
+venv
+__pycache__
+**/__pycache__
+*.pyc
+models
+data/chroma
+data/dumps
+data/pages
+data/uploads
+data/answer_cache.json
+data/answer_cache.tmp
+eval/reports
+.cursor
+*.md
